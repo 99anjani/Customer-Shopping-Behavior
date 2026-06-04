@@ -17,3 +17,5 @@ An end-to-end data analytics project that explores retail customer shopping beha
 - Majority of customers are in the Loyal segment — strong retention rate
 - Young Adults lead revenue contribution across all age groups
 - Subscription rate highlights a clear opportunity for growth
+
+![Customer Shopping Behvaior Dashboard](https://github.com/99anjani/Customer-Shopping-Behavior/blob/main/asset/dashboard.png)
