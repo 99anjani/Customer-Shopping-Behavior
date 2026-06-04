@@ -1,2 +1,19 @@
-# Customer-Shopping-Behavior-
-Excited to share my latest end-to-end data analytics project exploring retail customer shopping behavior from raw data to actionable insights.
+# Customer Shopping Behavior — Data Analytics Project
+
+An end-to-end data analytics project that explores retail customer shopping behavior through data preprocessing, SQL analysis, and interactive dashboard visualization.
+
+## Tech Stack
+- **Python & Pandas** — data cleaning, feature engineering
+- **PostgreSQL** — analytical queries, customer segmentation
+- **Power BI** — interactive dashboard
+
+## Project Workflow
+1. **Preprocess** — clean raw data, impute missing values, engineer age group and purchase frequency features
+2. **Analyse** — SQL queries for revenue breakdown, discount utilization, product performance, and customer segmentation
+3. **Visualize** — Power BI dashboard with KPI cards, revenue charts, and segment distribution
+
+## Key Insights
+- Clothing is the highest revenue-generating category
+- Majority of customers are in the Loyal segment — strong retention rate
+- Young Adults lead revenue contribution across all age groups
+- Subscription rate highlights a clear opportunity for growth
